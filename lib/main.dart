@@ -5,7 +5,7 @@ import 'package:math_expressions/math_expressions.dart';
 void main() {
   runApp(const MyApp());
 }
-
+//Calculator App
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
